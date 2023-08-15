@@ -24,7 +24,7 @@ Link to [Interactive Dashboard](https://www.novypro.com/project/pizza-sales-anal
 - Bottom 3 least sold pizzas
 - Quantities sold by size
 
-**Insights**
+**Key Insights**
 
 - The pizza which returned highest revenue is The Thai Chicken Pizza and lowest one is Brie Carre Pizza.
 - The highest sold Pizza is The Classic Delux Pizza and the least sold one is Brie Carre Pizza.
