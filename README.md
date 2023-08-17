@@ -12,7 +12,7 @@ Link to [Source Code](https://github.com/praganya21/Pizza-Sales/blob/main/pizza%
 
 - Total Revenue
 - Average Order Value
-- Total no. of Pizzas Sold
+- Total no. of Pizzas Sold 
 - Total no.of Orders
 - Average no. of Pizzas per Order
 
