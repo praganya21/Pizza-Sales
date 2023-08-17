@@ -6,6 +6,8 @@ TechStack - Microsoft Power BI, MySQL
 
 Link to [Interactive Dashboard](https://www.novypro.com/project/pizza-sales-analysis-power-bi-3)
 
+Link to [Source Code](https://github.com/praganya21/Pizza-Sales/blob/main/pizza%20queries%20project.sql)
+
 **Key Performance Indicators**
 
 - Total Revenue
